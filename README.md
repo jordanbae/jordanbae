@@ -20,7 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanbae&show_icons=true&locale=en&layout=compact" alt="jordanbae" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanbae&show_icons=true&locale=en" alt="jordanbae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanbae&" alt="jordanbae" /></p>
 
