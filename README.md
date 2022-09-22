@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A business student and also a self-taught developer from Thailand.</h3>
+<h1 align="center">Hellooo</h1>
+<h3 align="center">I'm Jordan, a business student and also a self-taught developer.</h3>
 
 
 <div align="center">
@@ -34,7 +34,3 @@
   <a href="">![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbae&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</a>
 </div>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=jordanbae&icon=0&color=12)](https://visitcount.itsvg.in)
