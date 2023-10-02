@@ -1,5 +1,5 @@
 <h1 align="center">Hellooo</h1>
-<p align="center">I'm Jordan, a business student and a self-taught developer.</p>
+<p align="center">I'm Jordan, a self-taught developer.</p>
 
 
 <div align="center">
